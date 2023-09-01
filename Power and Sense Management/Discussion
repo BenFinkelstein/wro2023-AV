@@ -1,0 +1,18 @@
+The robot uses an Arduino Nano Every.  
+A 2600mAh 11.7V LiPo battery supplies the power.
+A L298N is used as the esc for the motor. 
+
+The sensors used are as follows: 
+  3x VL53L0X time of flight sensors. 
+  1x MPU6050 Gyroscope + Accelerometer. 
+
+ 
+
+The time-of-flight sensors were chosen because they have a decent range and high precision when compared to other types of sensors that can be used to measure distance. 
+They are the main tool used to ensure the robot drives as intended and turns when intended. 
+The gyroscope is used to aid the time-of-flight sensors in ensuring the robot drives in a straight line and turns precisely.  
+
+----------------
+Included Photos:
+Photos of the Sensors.
+Different 3D printed designs of the sensor housing and their mounts.
