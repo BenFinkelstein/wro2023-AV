@@ -1,0 +1,17 @@
+The plan from the start was to create a robot using a nearly completely 3D printed chassis and body. 
+The chassis and body would also be a proprietary design. Lego wheels and axle rods were used in addition to the 3D printed aspects of the robot. 
+The robot would have 4-wheel steering and the motor would be attached to the rear-wheels. 
+It was eventually decided that the entire rear section of the robot would turn to steer.  
+The front section of the robot would house all electronics (apart from the motor), including the servo.  
+
+Several motors were considered until we eventually settled on the LEGO Mindstorms Large Motor. 
+An esc is connected between the Arduino and the motor and serves to regulate the speed and supply the motor power from the battery. 
+The front wheels are not powered in order to avoid the use of a differential, which simplifies the design. 
+
+The servo which is placed in the front is connected through the steering columb to the front wheels and rear section of the robot. 
+The design of the steering column  is so that the rear section moves in the opposite direction of the front wheels.
+
+-----------------
+Including Photos:
+Schematics that show the early design concept we came up with.
+Pictures of 3D printed parts used in the chassis and steering column, in adition to their evolution
