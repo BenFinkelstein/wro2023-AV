@@ -24,3 +24,11 @@ _Remove this section before the first commit to the repository_
 1. Clone this repo by using the `git clone` functionality.
 2. Remove `.git` directory
 3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+
+-   Un “Cuaderno de ingeniería” que presente su proceso de trabajo y el resultado final del código y del vehículo, que incluya fotos del vehículo (desde todos los lados, desde arriba y desde abajo).
+
+-     URL de YouTube (debe ser pública o accesible mediante un enlace) que muestre el vehículo conduciendo de forma autónoma. Duración mínima de 30 segundos. Se debe proporcionar un video para cada challenge.
+
+-     El código de todos los componentes que fueron programados.
+
+-     Un archivo README.md con una breve descripción en inglés (no menos de 5000 caracteres) de la solución diseñada. El objetivo de la descripción es aclarar en qué módulos consta el código, cómo se relacionan con los componentes electromecánicos del vehículo y cuál es el proceso para construir/compilar/cargar el código en los controladores del vehículo.
