@@ -9,7 +9,7 @@ The sensors used are as follows:
  
 
 The time-of-flight sensors were chosen because they have a decent range and high precision when compared to other types of sensors that can be used to measure distance. 
-They are the main tool used to ensure the robot drives as intended and turns when intended. 
+The distances they record are the main tool used to ensure the robot drives as intended and turns when intended. 
 The gyroscope is used to aid the time-of-flight sensors in ensuring the robot drives in a straight line and turns precisely.  
 
 ----------------
