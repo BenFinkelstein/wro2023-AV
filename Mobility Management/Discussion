@@ -6,7 +6,7 @@ A fourth smaller wheel would be attached to the front to help support the sensor
 The front section of the vehicle would house all electronics (apart from the motor), including the servo.  
 
 Several motors were considered until we eventually settled on the LEGO Mindstorms Large Motor.
-Though we have two motors mounted, only one actually is being powered. The other acts imply as a counter weight.
+Though we have two motors mounted, only one actually is being powered and drives the wheel. The other acts imply as a counter weight.
 An ESC is connected between the Arduino and the motor and serves to regulate the speed and supply the motor power from the battery.
 The motor was initially connected to the rear wheel with a rubber band, this was then replaced by gears until finally we connected the motor directly to the wheel's axle.
 The front wheels are not powered in order to avoid the use of a differential, which simplifies the design. 
