@@ -1,17 +1,18 @@
-The plan from the start was to create a robot using a nearly completely 3D printed chassis and body. 
-The chassis and body would also be a proprietary design. Lego wheels and axle rods were used in addition to the 3D printed aspects of the robot. 
-The robot would have 4-wheel steering and the motor would be attached to the rear-wheels. 
-It was eventually decided that the entire rear section of the robot would turn to steer.  
-The front section of the robot would house all electronics (apart from the motor), including the servo.  
+The plan from the start was to create a vehicle using a nearly completely 3D printed chassis and body. 
+The chassis and body would also be a proprietary design. Lego wheels and axle rods were used in addition to the 3D printed aspects of the vehicle. 
+The vehicle would have 4-wheel steering and the motor would be attached to the rear-wheels. 
+It was eventually decided that the entire rear section of the vehicle would turn to steer. 
+A fourth smaller wheel would be attached to the front to help support the sensor board.
+The front section of the vehicle would house all electronics (apart from the motor), including the servo.  
 
 Several motors were considered until we eventually settled on the LEGO Mindstorms Large Motor. 
-An esc is connected between the Arduino and the motor and serves to regulate the speed and supply the motor power from the battery.
+An ESC is connected between the Arduino and the motor and serves to regulate the speed and supply the motor power from the battery.
 The motor was initially connected to the rear wheel with a rubber band, this was then replaced by gears until finally we connected the motor directly to the wheel's axle.
 The front wheels are not powered in order to avoid the use of a differential, which simplifies the design. 
 
 The servo which is placed in the front is connected through steering linkages to the front wheels and a vertical axle placed in the middle. 
 This vertical axle connects the front steering system to the rear stystem. 
-The design of the rear steering system  is so that the rear section moves in the opposite direction of the front wheels.
+The design of the rear steering system is so that the rear section moves in the opposite direction of the front wheels.
 
 -----------------
 Including Photos:
