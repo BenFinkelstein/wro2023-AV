@@ -1,7 +1,7 @@
-From the very beginning we decided that the robot would use its relative distance the walls that surround it to navigate the course.
-The robot uses its Time-of-Flight sensors for that purpose. The side sensors, specifically, are the most important to achieve this. 
-They indicate when the robot should turn, by how much, and in what direction. Arduino compares the distances reported by the two sensors and utilizes that data to make a choice. 
-The magnetometer helps the robot keep track of its current heading and allows it to turn precisley. 
+From the very beginning we decided that the vehicle would use its relative distance to the walls that surround it to navigate the course.
+The vehicle uses its Time-of-Flight sensors for that purpose. The side sensors, specifically, are the most important to achieve this. 
+They indicate when the vehicle should turn, by how much, and in what direction. Arduino compares the distances reported by the two sensors and utilizes that data to make a choice. 
+The magnetometer helps the vehicle keep track of its current heading and allows it to turn precisley. 
 The front sensor is used to detect any obstacles directly infront of it, whose color the color sensor then senses.
 
 ---------------
